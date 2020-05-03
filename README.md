@@ -26,3 +26,18 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 - [VelocityX](https://github.com/iampawan/VelocityX): A minimalist Flutter framework for rapidly building custom designs. https://velocityx.dev
 - [weather_flutter_ui_challenge](https://github.com/mahadydev/weather_flutter_ui_challenge): Basic and minimalistic flutter weather app ui
 
+## Tutorials
+
+- [Flutter Thursday 01: App Dashboard](https://medium.com/@afegbua/flutter-thursday-app-dashboard-565df2aab12c)
+- [How to create your first iOS Flutter app on MacOS](https://medium.com/front-end-weekly/how-to-create-your-first-ios-flutter-app-on-macos-7dfa9c3e1962)
+
+## Advanced how to
+
+- [Get Fluttered : Postman Animation](https://itnext.io/get-fluttered-postman-animation-d1760416b680)
+- [Flutter — Bottom Tab Bar animation](https://medium.com/@tonyowen/flutter-bottom-tab-bar-animation-75d1ca58c096)
+- [Flutter Column Cookbook](https://medium.com/flutter-community/flutter-column-cookbook-35e2d99ae5c8)
+
+## Blog articles
+
+- [Flutter + MVC at Last!](https://medium.com/follow-flutter/flutter-mvc-at-last-275a0dc1e730) The “kiss” of Flutter Frameworks.
+- [Making the Most of Flutter: From Basics to Customization](https://medium.com/hackernoon/making-the-most-of-flutter-from-basics-to-customization-433171581d01)
