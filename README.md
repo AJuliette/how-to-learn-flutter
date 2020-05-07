@@ -41,3 +41,4 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 
 - [Flutter + MVC at Last!](https://medium.com/follow-flutter/flutter-mvc-at-last-275a0dc1e730) The “kiss” of Flutter Frameworks.
 - [Making the Most of Flutter: From Basics to Customization](https://medium.com/hackernoon/making-the-most-of-flutter-from-basics-to-customization-433171581d01)
+- [After one year with Flutter this is what I learned](https://uxdesign.cc/after-one-year-with-flutter-this-is-what-i-learned-b31181c987c8)
