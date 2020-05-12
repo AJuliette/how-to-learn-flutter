@@ -10,6 +10,7 @@ For when I get time
 ## Useful resources
 
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips)
+- [Flutter installer](https://github.com/sampathbalivada/flutter_installer): An installation toolkit for Flutter SDK on Windows PCs
 
 ## Learn by example
 Repos that were usually featured in [Changelog Nightly](https://changelog.com/nightly)
@@ -22,6 +23,7 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 - [flutter_remote_control](https://github.com/simplezhli/flutter_remote_control): flutter remote control
 - [flutter-task-planner-app](https://github.com/TheAlphaApp/flutter-task-planner-app): A beautiful task planner app design made in flutter.
 - [helm](https://github.com/chuabingquan/helm): Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
+- [mediapp](https://github.com/randyvalencia/mediapp): Flutter UI Medical App
 - [Mobile-Banking-App-UI](https://github.com/vinothvino42/Mobile-Banking-App-UI): A mobile banking ui design app in a neomorphism style built using flutter.
 - [VelocityX](https://github.com/iampawan/VelocityX): A minimalist Flutter framework for rapidly building custom designs. https://velocityx.dev
 - [weather_flutter_ui_challenge](https://github.com/mahadydev/weather_flutter_ui_challenge): Basic and minimalistic flutter weather app ui
