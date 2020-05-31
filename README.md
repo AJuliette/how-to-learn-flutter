@@ -23,6 +23,7 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 - [helm](https://github.com/chuabingquan/helm): Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
 - [mediapp](https://github.com/randyvalencia/mediapp): Flutter UI Medical App
 - [Mobile-Banking-App-UI](https://github.com/vinothvino42/Mobile-Banking-App-UI): A mobile banking ui design app in a neomorphism style built using flutter.
+- [Movie Booking App UI](https://github.com/brinesoftwares/movie-booking-app-ui)
 - [Parallax scroll effect](https://github.com/pawlik92/flutter_parallax_scroll): Flutter UI Challenge- "Urban Planners" Parallax Scroll
 - [remote_control](https://github.com/simplezhli/flutter_remote_control): flutter remote control
 - [task-planner-app](https://github.com/TheAlphaApp/flutter-task-planner-app): A beautiful task planner app design made in flutter.
