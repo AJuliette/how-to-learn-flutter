@@ -19,6 +19,7 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 - [chyker-foods](https://github.com/OLayemii/chyker-foods): A food ordering app built with flutter and firebase
 - [coronavirus-tracker](https://github.com/X-SLAYER/coronavirus-tracker): App made with flutter to track coronavirus on real time
 - [Coronavirus-Warrior](https://github.com/iampawan/Coronavirus-Warrior): A Flutter project to track & help to fight from coronavirus.
+- [covid_tracker](https://github.com/arafaysaleem/covid_tracker): A covid-19 statistics app
 - [elastic_sidebar](https://github.com/letsdoit07/flutter_elastic_sidebar): This is a tutorial for Flutter Elastic Sidebar Tutorial on RetroPortal Studio
 - [helm](https://github.com/chuabingquan/helm): Helm is an app that gamifies stress/anxiety/depression management in an actionable manner to provide relief.
 - [mediapp](https://github.com/randyvalencia/mediapp): Flutter UI Medical App
