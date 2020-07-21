@@ -10,6 +10,8 @@ For when I get time
 ## Useful resources
 
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips)
+- [Best Flutter UI templates](https://github.com/mitesh77/Best-Flutter-UI-Templates): completely free for everyone. Its build-in Flutter Dart
+- [Flutter references](https://github.com/SaltySpaghetti/flutter-references): Flutter Learning Material & Useful Refs
 - [Flutter installer](https://github.com/sampathbalivada/flutter_installer): An installation toolkit for Flutter SDK on Windows PCs
 
 ## Learn by example
@@ -17,6 +19,7 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 
 - [architect_ui](https://github.com/kawal7415/architect_ui): Architect UI Design Flutter
 - [chyker-foods](https://github.com/OLayemii/chyker-foods): A food ordering app built with flutter and firebase
+- [commerce](https://github.com/ashishrawat2911/flutter_commerce): An Ecommerce application built in Flutter using Firebase
 - [coronavirus-tracker](https://github.com/X-SLAYER/coronavirus-tracker): App made with flutter to track coronavirus on real time
 - [Coronavirus-Warrior](https://github.com/iampawan/Coronavirus-Warrior): A Flutter project to track & help to fight from coronavirus.
 - [covid_tracker](https://github.com/arafaysaleem/covid_tracker): A covid-19 statistics app
@@ -26,6 +29,8 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 - [Mobile-Banking-App-UI](https://github.com/vinothvino42/Mobile-Banking-App-UI): A mobile banking ui design app in a neomorphism style built using flutter.
 - [Movie Booking App UI](https://github.com/brinesoftwares/movie-booking-app-ui)
 - [Parallax scroll effect](https://github.com/pawlik92/flutter_parallax_scroll): Flutter UI Challenge- "Urban Planners" Parallax Scroll
+- [Pixez](https://github.com/Notsfsssf/pixez-flutter): A 3rd-party pixiv client built with Flutter
+- [Recipe app UI](https://github.com/abuanwar072/Recipe-App---Flutter-UI)
 - [remote_control](https://github.com/simplezhli/flutter_remote_control): flutter remote control
 - [task-planner-app](https://github.com/TheAlphaApp/flutter-task-planner-app): A beautiful task planner app design made in flutter.
 - [VelocityX](https://github.com/iampawan/VelocityX): A minimalist Flutter framework for rapidly building custom designs. https://velocityx.dev
