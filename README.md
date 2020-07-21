@@ -11,6 +11,7 @@ For when I get time
 
 - [Awesome Flutter tips](https://github.com/erluxman/awesomefluttertips)
 - [Best Flutter UI templates](https://github.com/mitesh77/Best-Flutter-UI-Templates): completely free for everyone. Its build-in Flutter Dart
+- [CodePen challenge on Flutter](https://codepen.io/challenges/2020/july/)
 - [Flutter references](https://github.com/SaltySpaghetti/flutter-references): Flutter Learning Material & Useful Refs
 - [Flutter installer](https://github.com/sampathbalivada/flutter_installer): An installation toolkit for Flutter SDK on Windows PCs
 
