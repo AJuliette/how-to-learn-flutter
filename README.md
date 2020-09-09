@@ -19,6 +19,7 @@ For when I get time
 Repos that were usually featured in [Changelog Nightly](https://changelog.com/nightly)
 
 - [architect_ui](https://github.com/kawal7415/architect_ui): Architect UI Design Flutter
+- [car rental](https://github.com/gerfagerfa/car_rental)
 - [chyker-foods](https://github.com/OLayemii/chyker-foods): A food ordering app built with flutter and firebase
 - [commerce](https://github.com/ashishrawat2911/flutter_commerce): An Ecommerce application built in Flutter using Firebase
 - [coronavirus-tracker](https://github.com/X-SLAYER/coronavirus-tracker): App made with flutter to track coronavirus on real time
@@ -32,6 +33,7 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 - [Movie App](https://github.com/DaniAlav/movie_app): A simple movie app made in Flutter
 - [Parallax scroll effect](https://github.com/pawlik92/flutter_parallax_scroll): Flutter UI Challenge- "Urban Planners" Parallax Scroll
 - [Pixez](https://github.com/Notsfsssf/pixez-flutter): A 3rd-party pixiv client built with Flutter
+- [Pub.dev Website](https://github.com/Codelessly/FlutterPubWebsite): The pub.dev website, rebuilt in Flutter with 💙!
 - [Recipe app UI](https://github.com/abuanwar072/Recipe-App---Flutter-UI)
 - [remote_control](https://github.com/simplezhli/flutter_remote_control): flutter remote control
 - [task-planner-app](https://github.com/TheAlphaApp/flutter-task-planner-app): A beautiful task planner app design made in flutter.
