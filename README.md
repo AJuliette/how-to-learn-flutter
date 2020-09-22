@@ -45,6 +45,7 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 - [Flutter Thursday 01: App Dashboard](https://medium.com/@afegbua/flutter-thursday-app-dashboard-565df2aab12c)
 - [How to create your first iOS Flutter app on MacOS](https://medium.com/front-end-weekly/how-to-create-your-first-ios-flutter-app-on-macos-7dfa9c3e1962)
 - [Build a Flutter Web App From Scratch and Host It With Continuous Deployment](https://medium.com/better-programming/building-flutter-web-app-from-scratch-and-hosting-it-with-continuous-deployment-fde0c20ed711)
+- [Building Chat App in Flutter with Firebase](https://medium.com/flutter-community/building-chat-app-in-flutter-with-firebase-888b6222fe20)
 
 ## Advanced how to
 
