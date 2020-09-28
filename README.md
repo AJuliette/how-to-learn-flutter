@@ -32,6 +32,7 @@ Repos that were usually featured in [Changelog Nightly](https://changelog.com/ni
 - [Movie Booking App UI](https://github.com/brinesoftwares/movie-booking-app-ui)
 - [Movie App](https://github.com/DaniAlav/movie_app): A simple movie app made in Flutter
 - [Parallax scroll effect](https://github.com/pawlik92/flutter_parallax_scroll): Flutter UI Challenge- "Urban Planners" Parallax Scroll
+- [Pet finder](https://github.com/gerfagerfa/pet_finder): Pet Finder App UI in Flutter
 - [Pixez](https://github.com/Notsfsssf/pixez-flutter): A 3rd-party pixiv client built with Flutter
 - [Pub.dev Website](https://github.com/Codelessly/FlutterPubWebsite): The pub.dev website, rebuilt in Flutter with 💙!
 - [Recipe app UI](https://github.com/abuanwar072/Recipe-App---Flutter-UI)
